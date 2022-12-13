@@ -1,0 +1,70 @@
+h1 {
+  text-align: center;
+  background-color: #46d7ac;
+  color: white;
+}
+#student_detail_form {
+  display: inline;
+  float: left;
+
+  margin: 6rem 4rem 0 9rem;
+  font-size: x-large;
+}
+#endrolled_student_details {
+  display: inline;
+  float: right;
+  margin: 1rem 6rem 0 5rem;
+}
+input[type="text"] {
+  height: 2rem;
+  width: 15rem;
+  font-size: medium;
+}
+input[type="radio"] {
+  transform: scale(1.5);
+}
+input[type="checkbox"] {
+  transform: scale(1.5);
+}
+td {
+  width: 10rem;
+}
+th {
+  background-color: #a7c93e;
+  color: white;
+}
+#details_table {
+  background-color: #eaf1d2;
+
+  border: 1px solid #a3c83d;
+  border-collapse: collapse;
+}
+th {
+  border: 1px solid #a3c83d;
+  border-collapse: collapse;
+  font-size: x-large;
+}
+#details_table td {
+  border: 1px solid #a3c83d;
+  text-align: center;
+  width: 20rem;
+  font-size: 1.2rem;
+}
+#endroll_button {
+  font-size: large;
+  background-color: #0085fe;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 3rem;
+  margin-top: 20px;
+  border-radius: 0.5rem;
+}
+#clear_button {
+  font-size: large;
+  background-color: #d92842;
+  color: white;
+  font-weight: bold;
+  padding: 0.5rem 3rem;
+  margin-top: 20px;
+  border-radius: 0.5rem;
+}
